@@ -18,4 +18,5 @@ par régression linéaire simple et multiple sous R.
 ## 👩🏾‍💻 Auteure
 **Ndeye Sira Dia** — Étudiante en Licence Informatique option Big Data  
 Dakar Institute of Technology  
-[LinkedIn](https://linkedin.com/in/sira-dia) · [GitHub](https://github.com/Sirad12)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sira-dia)
